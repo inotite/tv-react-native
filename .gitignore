@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+Pods/
+android/
+*/.DS_Store
+*build*
+*Build*
+*intermediate*
+*lock.*
+*.lock
+*.xcuserdata*

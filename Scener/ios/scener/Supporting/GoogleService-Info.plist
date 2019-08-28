@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1072730434888-iih865mv656f9okqf6008ivg0o9lon0b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1072730434888-iih865mv656f9okqf6008ivg0o9lon0b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAj_4w0ot83tK0Zx7Y_tnOiR_3T8xfuV18</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1072730434888</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.scener.app</string>
+	<key>PROJECT_ID</key>
+	<string>scener-react-native</string>
+	<key>STORAGE_BUCKET</key>
+	<string>scener-react-native.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1072730434888:ios:adb4e2052745fe3a</string>
+	<key>DATABASE_URL</key>
+	<string>https://scener-react-native.firebaseio.com</string>
+</dict>
+</plist>
